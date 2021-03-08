@@ -1,0 +1,22 @@
+{
+  "name": "cypressexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfonsecasolis/cypressExample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanfonsecasolis/cypressExample/issues"
+  },
+  "homepage": "https://github.com/juanfonsecasolis/cypressExample#readme",
+  "devDependencies": {
+    "cypress": "^6.6.0"
+  }
+}
